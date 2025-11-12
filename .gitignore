@@ -11,7 +11,7 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+
 
 # IDE
 .vscode/
@@ -43,7 +43,6 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
-.hypothesis/
 .pytest_cache/
 
 # Environments
